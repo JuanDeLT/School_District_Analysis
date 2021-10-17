@@ -7,7 +7,8 @@ This project was meant to analyze the results of a school district's standardize
 ## Results of Analysis and Re-analysis
 Analysis Thomas High School         |  Re-analysis Thomas High School
 :-------------------------:|:-------------------------:
-<img width="1117" alt="top5_old" src="https://user-images.githubusercontent.com/89175578/137649700-fa686a3b-bcc0-4a4e-8d5c-92ba580f0861.png"> |  top5 new(image)
+<img width="1117" alt="top5_old" src="https://user-images.githubusercontent.com/89175578/137649700-fa686a3b-bcc0-4a4e-8d5c-92ba580f0861.png"> |  <img width="1117" alt="top5_old" src="https://user-images.githubusercontent.com/89175578/137649719-6cffc602-b0da-48bf-b9fb-73ebf8b3e70b.png">
+
 
 #### Here we can see the results of just Thomas High School when the 9th graders were included versus when they were not included. 
 
