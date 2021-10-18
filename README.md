@@ -31,7 +31,7 @@ These results were unaffected by the exclusion of Thomas High School 9th graders
 
 | Size | Funding | Type |
 | :---         |     :---:      |          ---: |
-| size school  | funding school   | type school  |
+| <img width="758" alt="size_school" src="https://user-images.githubusercontent.com/89175578/137649739-74ea9c33-28b3-4733-8bb5-28a5fc80eb16.png">  | funding school   | type school  |
 
 - Size of the school is unaffected
 - Funding of the school is unaffected
