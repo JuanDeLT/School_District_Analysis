@@ -29,10 +29,18 @@ Analysis Thomas High School         |  Re-analysis Thomas High School
 
 These results were unaffected by the exclusion of Thomas High School 9th graders, so the old results are posted here. The new results can be verified by checking the PyCitySchools_Challenge.ipynb file.
 
-| Size | Funding | Type |
-| :---         |     :---:      |          ---: |
-| <img width="758" alt="size_school" src="https://user-images.githubusercontent.com/89175578/137649739-74ea9c33-28b3-4733-8bb5-28a5fc80eb16.png">  | <img width="822" alt="funding_school" src="https://user-images.githubusercontent.com/89175578/137649747-8238b31e-d25f-414a-aaf6-f22f27e6b6dd.png">
-  | type school  |
+| Size |  
+| :---:         |   
+| <img width="758" alt="size_school" src="https://user-images.githubusercontent.com/89175578/137649739-74ea9c33-28b3-4733-8bb5-28a5fc80eb16.png">  | 
+  
+
+| Funding |
+| :---:|
+|<img width="822" alt="funding_school" src="https://user-images.githubusercontent.com/89175578/137649747-8238b31e-d25f-414a-aaf6-f22f27e6b6dd.png">|
+
+| Type |
+| :---:|
+|<img width="716" alt="type_school" src="https://user-images.githubusercontent.com/89175578/137649741-44ee2a80-9102-419f-9294-e5b0da44cf14.png">|
 
 - Size of the school is unaffected
 - Funding of the school is unaffected
